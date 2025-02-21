@@ -16,6 +16,10 @@ _A demo testing gesture recognition for different types of sound synthesis._
 [![EEG Sonification](https://img.youtube.com/vi/rxAMD7otgBE/0.jpg)](https://youtu.be/rxAMD7otgBE)
 _A project that transforms EEG electrical activity data into sound._
 
+### 🎭 **Immersive Theater Residency - Motion Capture & AR**
+[![Immersive Theater Residency](https://img.youtube.com/vi/iitalEqRkLE/0.jpg)](https://youtu.be/iitalEqRkLE)
+_As part of my work as an **Engineer of Studies at the Centre de Réalité Étendue XR2C2**, I have participated in numerous research tasks and supported artistic residencies. In this residency, I was responsible for the full technical deployment of **motion capture with Rokoko**, **sound design**, and the **development and deployment of the AR app** used in the immersive theater piece seen in the video._
+
 
 ## 📜 Credits & License
 📌 Developed by **Romina S. Romay**.  
